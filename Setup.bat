@@ -2,13 +2,6 @@
 
 type "%CD%\art\art.txt"
 
-
-
-pause
-echo Downloading Files Using Curl...
-"%cd%\Tools\Curl\curl.exe"  -o ./NoxPlayerSetup.exe -J -L bignox.com/en/download/fullPackage?beta
-echo Download Complete.
-
 pause
 echo Creating Directory Structure...
 mkdir "%cd%\NoxPlayer"

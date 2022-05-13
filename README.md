@@ -3,6 +3,8 @@ A script that will make a almost portable version of NoxPlayer (Windows Only) (u
 
 How to run setup:
 
+Manually download the latest installer from bignox.com/en/download/fullPackage?beta and rename it "NoxPlayerSetup.exe". Then move it to this folder.
+
 run one of the bat files (Setup-No-Pause-Clean-After.bat is the best to run). 
 after the script complete running the folder noxplayer is ready to beign copied, you can copy that folder to whereever you want (like a usb). 
 
