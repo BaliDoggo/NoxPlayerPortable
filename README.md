@@ -19,7 +19,6 @@ Sorry for my bad english
 
 
 If you have questions, contact the original creator at: bluemagicalwolf@gmail.com
-Or open an issue on here!
-
+Or contact me at lemonschannelas@gmail.com
 
 
